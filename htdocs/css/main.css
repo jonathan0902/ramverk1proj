@@ -1,0 +1,225 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #E9EBEE;
+}
+
+.datum {
+    color: #aaa;
+}
+
+.img-circle {
+    border-radius: 50%;
+    width: 40px;
+    height: 40px;
+}
+
+.comment {
+    width: 90%;
+    margin-left: 40px;
+    margin-top: 20px;
+}
+
+.subcomment {
+    margin-left: 80px;
+}
+
+.tag {
+    float: left;
+}
+
+.tags {
+    font-size: 14px;
+    color: #00b3ee;
+    text-decoration: none;
+}
+
+.tags:visited {
+    color: #00b3ee;
+}
+
+.date {
+    width: 30%;
+    float: left;
+    font-size: 13px;
+    color: #6c757d;
+}
+
+.post {
+    width: 450px;
+}
+
+.comment-img {
+    width: 40px;
+}
+
+.comment-img img {
+    float: left;
+}
+
+.comment-text {
+    background: #F2F3F5;
+    border: 1px solid #F2F3F5;
+    padding: 5px;
+    border-radius: 3.5rem;
+}
+
+.mention {
+    color: #6c757d;
+    text-decoration: none;
+}
+
+.article {
+    width: 650px;
+    display: block;
+}
+
+.article-text .article-img {
+    float: left;
+    width: 40px;
+}
+
+.article-text .text {
+    float: left;
+    width: 490px;
+    margin-left: 20px;
+}
+
+.tags-likes {
+    width: 100%;
+    float: left;
+}
+
+.tag {
+    margin-top: 15px;
+    margin-left: 60px;
+}
+
+.like {
+    margin-top: 15px;
+    float: right;
+}
+
+.likes {
+    width: 540px;
+}
+
+.article {
+    width: 650px;
+}
+
+.article-text-arc {
+    margin-left: 60px;
+}
+
+.article-text-arc .article-img {
+    float: left;
+    width: 40px;
+    margin-top: 20px;
+}
+
+.article-text-arc .text {
+    float: left;
+    width: 490px;
+    margin-left: 20px;
+}
+
+.showTags {
+    width: 25%;
+    float: left;
+    margin-top: 20px;
+    font-size: 17pt;
+}
+
+.tiny {
+    font-size: 10pt;
+}
+
+.region-main {
+    margin-left: auto;
+    margin-right: auto;
+}
+
+.right {
+    float: right;
+}
+
+.makePost {
+    margin-top: 35px;
+    margin-bottom: 35px;
+}
+
+table {
+    margin-right: auto;
+    margin-left: auto;
+    background: #fff;
+}
+
+.bg-light {
+    background-color: #622F31 !important;
+}
+
+.collapse a  {
+    color: #ccc;
+}
+
+.linka {
+    margin-left: 30px;
+}
+
+.linka a{
+    color: #fff;
+}
+
+.devider {
+    padding-left: 40px;
+    padding-right: 40px;
+}
+
+.devider span {
+    color: #ccc;
+}
+
+.article {
+    padding: 20px;
+}
+
+.ba {
+    background: #fff;
+}
+
+.comhref button {
+    width: 100%;
+}
+
+.ta {
+    border-top: 1px solid #ccc;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.fakebtn {
+    background-color: #fff;
+}
+
+.ba:hover {
+    cursor: pointer;
+}
+
+.ba a {
+    color: #000;
+}
+
+.re {
+    background: #fff;
+    padding-top: 30px;
+    padding-bottom: 30px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+}
+
+.form {
+    background: #fff;
+    padding: 40px;
+    margin-top: 30px;
+}
